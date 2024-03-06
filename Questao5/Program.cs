@@ -25,8 +25,8 @@ namespace Questao5
                 direita--;
             }
 
-            string reversedString = new string(vetorChar);
-            Console.WriteLine(reversedString);
+            string stringEmbaralhada = new string(vetorChar);
+            Console.WriteLine(stringEmbaralhada);
             Console.ReadLine();//sem utilidade esta aqui apenas para teste
         }
     }
